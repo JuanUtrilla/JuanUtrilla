@@ -11,7 +11,8 @@ modelo**. Optimizarlo para inferencia, servirlo tras una API, dejarlo monitoriza
 
 ### En lo que trabajo ahora
 
-**[MyTiquet](https://mytiquet.es)** · proyecto cofundado · *visión por computador + NLP*
+**[MyTiquet](https://mytiquet.es)** · proyecto cofundado · *visión por computador + NLP* ·
+[resumen técnico](https://github.com/JuanUtrilla/mytiquet-showcase)
 
 Digitalización automática de tickets de compra, en explotación con usuarios reales.
 Pipeline completo: puerta de calidad y regresor de esquinas para el recorte perspectivo,
@@ -25,7 +26,8 @@ mejora nunca pueda romper lo que ya funcionaba— y que optimizar la inferencia 
 sobre todo en **medir y descartar**: la mitad de las cuantizaciones que probé salían más
 lentas que el modelo original.
 
-**Sistema de riesgo de incendio forestal** · *ML en producción*
+**Sistema de riesgo de incendio forestal** · *ML en producción* ·
+[resumen técnico](https://github.com/JuanUtrilla/riesgo-incendio-espana-showcase)
 
 Modelo XGBoost sobre un dataset propio de 76.666 muestras que **bate al índice FWI oficial**
 (0,843 frente a 0,488 de AUC-PR), con validación cruzada espacial y cuatro validaciones
@@ -39,8 +41,9 @@ demostró que **mis propias métricas anteriores estaban infladas** por pseudo-r
 Las corregí y lo dejé documentado. Y donde el modelo *no* gana —frente a climatología y
 persistencia— también está escrito.
 
-*Ambos repositorios son privados por ahora. El del sistema de incendios se abrirá tras la
-defensa, en septiembre de 2026.*
+*El código de ambos proyectos es privado (producto comercial y TFM pendiente de defensa),
+pero cada uno tiene un repositorio público con la arquitectura y los resultados. El del
+sistema de incendios se abrirá completo tras la defensa, en septiembre de 2026.*
 
 ---
 
