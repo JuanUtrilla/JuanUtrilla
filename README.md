@@ -11,7 +11,7 @@ modelo**. Optimizarlo para inferencia, servirlo tras una API, dejarlo monitoriza
 
 ### En lo que trabajo ahora
 
-**MyTiquet** · producto propio · *visión por computador + NLP*
+**[MyTiquet](https://mytiquet.es)** · proyecto cofundado · *visión por computador + NLP*
 
 Digitalización automática de tickets de compra, en explotación con usuarios reales.
 Pipeline completo: puerta de calidad y regresor de esquinas para el recorte perspectivo,
